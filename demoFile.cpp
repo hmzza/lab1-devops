@@ -8,7 +8,7 @@ int main()
     cout << "devops Lab 2";
     cout << "check for merge";
     cout << "check 123";
-    cout << "check 456";
+    cout << "check 456 4444";
     cout << "devops Lab 3";
     cout << "devops Lab 4-merged commit";
     return 0;
