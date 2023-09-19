@@ -7,7 +7,6 @@ int main()
     cout << "devops Lab 1";
     cout << "devops Lab 2";
     cout << "devops Lab 3";
-    cout << "devops Lab 4";
+    cout << "devops Lab 4-merged commit";
     return 0;
 }
-    
