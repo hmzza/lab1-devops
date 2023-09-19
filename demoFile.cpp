@@ -11,5 +11,7 @@ int main()
     cout << "check 456 4444";
     cout << "devops Lab 3";
     cout << "devops Lab 4-merged commit";
+
+    cout << "fastforward";
     return 0;
 }
