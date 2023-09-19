@@ -9,5 +9,7 @@ int main()
     cout << "check for merge";
     cout << "devops Lab 3";
     cout << "devops Lab 4-merged commit";
+
+    cout << "fastforward";
     return 0;
 }
