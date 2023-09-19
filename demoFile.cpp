@@ -12,6 +12,10 @@ int main()
     cout << "devops Lab 3";
     cout << "devops Lab 4-merged commit";
 
+
+
+
+    /*hello*/
     cout << "fastforward";
     return 0;
 }
